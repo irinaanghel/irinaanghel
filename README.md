@@ -1,5 +1,6 @@
+![I love coding](https://github.com/irinaanghel/irinaanghel/assets/95704046/8e2c4c9f-ef04-46b9-a183-2986a101134b)
 ### Hi there 👋
-![Premium Vector _ Young programmer code for client projects developer writing program code flat vector](https://github.com/irinaanghel/irinaanghel/assets/95704046/a35e760a-cea2-40b2-996b-993f49ebf3d6)
+
 
 
 
