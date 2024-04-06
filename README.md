@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Premium Vector _ Young programmer code for client projects developer writing program code flat vector](https://github.com/irinaanghel/irinaanghel/assets/95704046/a35e760a-cea2-40b2-996b-993f49ebf3d6)
+
+
 
 <!--
 **irinaanghel/irinaanghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
