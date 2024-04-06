@@ -1,5 +1,7 @@
 
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/irinaanghel/irinaanghel/assets/95704046/1a6573fb-faca-4d4e-afa3-a93ff90a5b52)
+
+
 ### SKILL
 
 <div>
@@ -13,8 +15,12 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="50">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="50">
 </div>
+<br>
 
-
+- 🔭 I’m currently working on Angular, TypeScript, JavaScript
+- 🌱 I’m currently learning React, NextJS
+- 📫 How to reach me: [email](mailto:anghel.irina99@gmail.com) :)
+- ⚡ Fun fact: My first line of code was not "Hello World!"
 
 
 
@@ -25,12 +31,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
