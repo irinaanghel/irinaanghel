@@ -1,5 +1,7 @@
-(https://github.com/irinaanghel/irinaanghel/assets/95704046/6732ff97-f631-42ae-8735-1bfdb4f8143b)
+
 ### Hi there 👋
+![Premium Vector _ Programmer desk_](https://github.com/irinaanghel/irinaanghel/assets/95704046/59cccfcf-861e-4d39-85ce-77675371a0b6)
+
 
 
 
