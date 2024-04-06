@@ -16,26 +16,23 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="50">
 </div>
 <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br>
 
 - 🔭 I’m currently working on Angular, TypeScript, JavaScript
 - 🌱 I’m currently learning React, NextJS
 - 📫 How to reach me: [email](mailto:anghel.irina99@gmail.com) :)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
-
-<br><br>
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br>
 
 ```javascript
-const thai = {
+const irina = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [Angular, Bootstrap, Tailwind Css, Angular Material, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
