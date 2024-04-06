@@ -1,4 +1,4 @@
-![I love coding](https://github.com/irinaanghel/irinaanghel/assets/95704046/8e2c4c9f-ef04-46b9-a183-2986a101134b)
+![Coding is for everyone](https://github.com/irinaanghel/irinaanghel/assets/95704046/3095a16c-2cc7-40c2-89d5-2a7da9641fdc)
 ### Hi there 👋
 
 
